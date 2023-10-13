@@ -20,17 +20,22 @@ Our motivation for comparing the US and the UK's Olympic performance stems from 
 
 # Analyzation Questions
 ## Analyzing Trends Over the Years and Seasons:
-  How has the bronze/silver/gold medal count changed for both countries over time?
-  In which years did either the US or the UK perform exceptionally well or poorly in terms of medal counts?
-  Are there specific Olympic sports or events where one country consistently outperforms the other?
-  In which season (Summer/Winter) have each country fared better relative to the other?
-  How has hosting the Olympics affected medal acquisition rates for the US and UK?
+
+- How has the bronze/silver/gold medal count changed for both countries over time?
+- In which years did either the US or the UK perform exceptionally well or poorly in terms of medal counts?
+- Are there specific Olympic sports or events where one country consistently outperforms the other?
+- In which season (Summer/Winter) have each country fared better relative to the other?
+- How has hosting the Olympics affected medal acquisition rates for the US and UK?
+
 ## Exploring Ratios and Demographic Factors:
-  How does the ratio of gold medals to total medals differ between the United States and the UK over time?
-  Are there differences in the number of male and female athletes representing each country?
-  Do the male and female athletes achieve similar success rates?
-  Does one country tend to send younger or more experienced athletes in the Olympics?
+
+- How does the ratio of gold medals to total medals differ between the United States and the UK over time?
+- Are there differences in the number of male and female athletes representing each country?
+- Do the male and female athletes achieve similar success rates?
+- Does one country tend to send younger or more experienced athletes to the Olympics?
+
 ## Team Sports vs. Individual Sports and Specialization:
-  Which country tends to excel in team sports, and which excels in individual sports?
-  Which country specializes in gold medals in which individual or team sport consistently throughout the years?
+
+- Which country tends to excel in team sports, and which excels in individual sports?
+- Which country specializes in gold medals in which individual or team sport consistently throughout the years?
 
