@@ -1,5 +1,5 @@
-# OlympicsDataAnalyzation
-## This program analyzes performance trends between the US and the UK at the Olympics.
+# US + UK Olympics Data Analyzation
+## This program analyzes performance trends between the US and the UK at the Olympics (1896-2020).
 
 
 # Dataset Information
